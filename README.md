@@ -15,7 +15,7 @@ ____
 
 ## Tech Demo
 
-🍎 Log into the <a href="https://cs1.glitch.me/" noopener noreferer>tech demo</a> with username: **computer** or **science** and password: **1234**.
+🍎 Log into the <a href="https://cs1-py.glitch.me/" noopener noreferer>tech demo</a> with username: **computer** or **science** and password: **1234**.
 
 🍎 Keyboard Interface:
   - Movement: **WASD** or **Arrow Keys**
@@ -31,7 +31,7 @@ ____
 ## First Steps
 
 
-The **CS1 Game Engine** is currently lacking a clear boundary between itself and the embedded tech demo.  I will soon start to pull those apart to establish a clear API boundary layer for the engine. For now I suggest starting with the lessons accompanying the <a href="https://glitch.com/edit/#!/cs1-ide?path=README.md:1:0" rel="noopener noreferer">**CS1 IDE**</a>.
+The **CS1 Game Engine** is currently lacking a clear boundary between itself and the embedded tech demo.  I will soon start to pull those apart to establish a clear API boundary layer for the engine. For now I suggest starting with the lessons accompanying the <a href="https://glitch.com/edit/#!/cs1-ide-py?path=README.md:1:0" rel="noopener noreferer">**CS1 Python IDE**</a>.
 
 <a href="https://glitch.com/edit/#!/cs1-ide?path=README.md:1:0" rel="noopener noreferer">![CS1 IDE](https://cdn.glitch.com/25820b43-1b95-4fa5-a6eb-7937baaa174d%2Fcs1_ide.svg?v=1560717395173)</a>
 
